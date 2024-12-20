@@ -1,0 +1,28 @@
+{
+  "homepagelink": "https://automationexercise.com/",
+  "signupPage": {
+    "title": "New User Signup!",
+    "Name": "Han",
+    "Email": "hanin.med@gmail.com"
+  },
+  "accountData": {
+    "title": "ENTER ACCOUNT INFORMATION",
+    "form": {
+      "password":"4566",
+      "Day": "2",
+      "Month": "January",
+      "Year": "2021",
+      "FirstName": "Hanon",
+      "LastName": "Mohamed",
+      "Company": "Giza",
+      "Address1": "Address1",
+      "Address2": "Address2",
+      "Country": "Canada",
+      "State": "state",
+      "City": "city",
+      "Zipcode": "11155",
+      "MobileNumber": "01167883664"
+    },
+
+  }
+}
