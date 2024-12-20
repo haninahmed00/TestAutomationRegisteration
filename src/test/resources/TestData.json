@@ -2,8 +2,8 @@
   "homepagelink": "https://automationexercise.com/",
   "signupPage": {
     "title": "New User Signup!",
-    "Name": "Han",
-    "Email": "hanin.med@gmail.com"
+    "Name": "Hanoo",
+    "Email": "hanin.d@gmail.com"
   },
   "accountData": {
     "title": "ENTER ACCOUNT INFORMATION",
@@ -22,7 +22,7 @@
       "City": "city",
       "Zipcode": "11155",
       "MobileNumber": "01167883664"
-    },
+    }
 
   }
 }

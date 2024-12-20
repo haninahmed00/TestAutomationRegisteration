@@ -38,12 +38,12 @@ public class RegisterationActionMethods {
     private final By zipcodeName=By.id("zipcode");
     private final By mobileNumber=By.id("mobile_number");
     private final By submitButton= By.xpath("//button[contains(text(),\"Create Account\")]");
-    ////////////Final page
+
     private final By accountPageTitle= By.xpath("//b[contains(text(),\"Account Created\")]");
     private By deleteAccountButton = By.xpath("//a[@href='/delete_account']");
     private By accountDeletedAlert = By.xpath("//h2[@data-qa='account-deleted']");
     private By continueButton = By.xpath("//a[@data-qa='continue-button']");
-    ///Tests
+
     @Test
     public void test1(){
         Signup();
